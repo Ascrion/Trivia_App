@@ -1,0 +1,45 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+trivia_app/.DS_Store
+trivia_app/.atom/
+trivia_app/.build/
+trivia_app/.buildlog/
+trivia_app/.history
+trivia_app/.svn/
+trivia_app/.swiftpm/
+trivia_app/migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+.vscode/
+
+# Flutter/Dart/Pub related
+trivia_app/.dart_tool/
+trivia_app/.flutter-plugins
+trivia_app/.flutter-plugins-dependencies
+trivia_app/.packages
+trivia_app/.pub-cache/
+trivia_app/.pub/
+trivia_app/build/
+trivia_app/doc/api/
+trivia_app/ios/Flutter/.last_build_id
+
+# Symbolication / Obfuscation
+trivia_app/app.*.symbols
+trivia_app/app.*.map.json
+
+# Android Studio will place build artifacts here
+trivia_app/android/app/debug
+trivia_app/android/app/profile
+trivia_app/android/app/release
+
